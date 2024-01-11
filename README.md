@@ -1,3 +1,5 @@
+Skeleton forked from: https://github.com/ArthurSonzogni/OpenGL_CMake_Skeleton.git
+ 
 usage (WebAssembly) : 
 ---------------------
 Switch to the webassembly branch
